@@ -5,10 +5,10 @@ const HeroSection = () => {
 	return (
 		<div className="hero_section">
 			<div className="hero-text">
-				<h2>
+				<h1>
 					100 Thousand Songs, ad-free <br />
 					Over thousands podcast episodes
-				</h2>
+				</h1>
 			</div>
 			<div>
 				<img src={Headphone} alt="" srcset="" />
