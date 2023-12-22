@@ -1,4 +1,4 @@
-import React, { useEffect, useState } from "react";
+import React from "react";
 import HeroSection from "../../Components/HeroSection/HeroSection";
 import Section from "../../Components/Section/Section";
 import { useOutletContext } from "react-router-dom";
