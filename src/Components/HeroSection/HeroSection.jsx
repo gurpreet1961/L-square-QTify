@@ -11,7 +11,7 @@ const HeroSection = () => {
 				</h1>
 			</div>
 			<div>
-				<img src={Headphone} alt="" srcset="" />
+				<img src={Headphone} alt="" />
 			</div>
 		</div>
 	);
