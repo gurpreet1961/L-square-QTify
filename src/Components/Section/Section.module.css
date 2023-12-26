@@ -17,3 +17,6 @@
 	cursor: pointer;
 	color: var(--color-primary);
 }
+.filterWapper {
+	margin-top: 15px;
+}
